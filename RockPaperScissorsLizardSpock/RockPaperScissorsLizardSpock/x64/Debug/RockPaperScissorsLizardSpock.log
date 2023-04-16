@@ -1,0 +1,4 @@
+﻿  RockPaperScissorsLizardSpock.cpp
+D:\University Stuff\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock.cpp(168,27): warning C4305: 'argument': truncation from '__int64' to 'unsigned int'
+D:\University Stuff\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock.cpp(168,8): warning C4309: 'argument': truncation of constant value
+  RockPaperScissorsLizardSpock.vcxproj -> D:\University Stuff\RockPaperScissorsLizardSpock\x64\Debug\RockPaperScissorsLizardSpock.exe

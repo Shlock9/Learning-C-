@@ -1,0 +1,5 @@
+﻿  currency.cpp
+D:\University Stuff\piggy bank project\piggy bank project\currency.cpp(11,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\University Stuff\piggy bank project\piggy bank project\currency.cpp(12,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\University Stuff\piggy bank project\piggy bank project\currency.cpp(13,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  piggy bank project.vcxproj -> D:\University Stuff\piggy bank project\x64\Debug\piggy bank project.exe
